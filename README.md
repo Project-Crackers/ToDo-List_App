@@ -28,15 +28,7 @@ TODO LIST APPLICATION : Using HTML, CSS and Javascript
 
 **Categories and Tags:** Allow users to organize tasks by categories or tags for better task management.
 
-**Prioritization:** Users can set priorities (e.g., high, medium, low) for tasks.
-
-**Deadlines and Reminders:** Enable users to set due dates and receive reminders for upcoming tasks.
-
-**Search and Filter:** Provide search functionality and filtering options to help users find tasks quickly.
-
 **Responsive Design:** Ensure the application works smoothly on desktops, tablets, and smartphones.
-
-**User Authentication:** Implement user login and registration to save tasks across sessions.
 
 **Data Persistence:** Store user data in a database to ensure tasks are retained across sessions.
 
